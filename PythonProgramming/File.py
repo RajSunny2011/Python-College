@@ -1,0 +1,6 @@
+f = open("C:\\Sunny\\Python\\PythonProgramming\\DemoSatvik.txt","w")
+f.write("My name is Satvik Raj.\nI am studying in UPES.\nI am a first year in my second semester.\nI am studying B.Tech CSE.")
+f.close()
+f = open("C:\\Sunny\\Python\\PythonProgramming\\DemoSatvik.txt","a")
+f.write("\nYO")
+f.close()

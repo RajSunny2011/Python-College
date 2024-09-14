@@ -1,0 +1,5 @@
+t = ("a","b","c")
+it = iter(t)
+print(next(it))
+print(next(it))
+print(next(it))
